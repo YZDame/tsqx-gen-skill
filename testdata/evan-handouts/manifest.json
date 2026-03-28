@@ -1,0 +1,454 @@
+[
+  {
+    "source_tex": "Constructions/Constructions.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Constructions/Constructions.tex",
+    "asy_index": 2,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Constructions/Constructions.tex",
+    "asy_index": 3,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Constructions/Constructions.tex",
+    "asy_index": 4,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Constructions/Constructions.tex",
+    "asy_index": 5,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 1,
+    "caption": "The two cases for cyclic quadrilaterals.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 2,
+    "caption": "The two cases for cyclic quadrilaterals.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 3,
+    "caption": "The directed angle $(, m) = 50$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 4,
+    "caption": "The directed angle $ AOB = -130 = 50$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 5,
+    "caption": "Triangle Sum",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 6,
+    "caption": "Collinearity with directed angles.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 7,
+    "caption": "Collinearity with directed angles.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 8,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 9,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 10,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 11,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 12,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 13,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Directed-Angles/Directed-Angles.tex",
+    "asy_index": 14,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Fact5/Fact5.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "placeholder_only"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 1,
+    "caption": "The three angles of Reim's theorem.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 2,
+    "caption": "EGMO Lemma 1.18, also known as ``Fact 5'', and many other regional nicknames.",
+    "status": "placeholder_only"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 3,
+    "caption": "The Iran incenter lemma.",
+    "status": "extracted",
+    "output_file": "cases/GeoSlang-03-the-iran-incenter-lemma.tsqx"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 4,
+    "caption": "The shooting lemma / death star lemma.",
+    "status": "extracted",
+    "output_file": "cases/GeoSlang-04-the-shooting-lemma-death-star-lemma.tsqx"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 5,
+    "caption": "Salmon's theorem.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 6,
+    "caption": "The first isogonality lemma.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 7,
+    "caption": "The simple picture for the Ratio Lemma.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 8,
+    "caption": "The prism lemma.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 9,
+    "caption": "The Humpty point (denoted $Q$) and the $A$-queue point (denoted $G$).",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "GeoSlang/GeoSlang.tex",
+    "asy_index": 10,
+    "caption": "The $A$-Sharkydevil point.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "IMO-2014/IMO-2014.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "LM/LM.tex",
+    "asy_index": 1,
+    "caption": "The open disk $D$ is open.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Mixt-GeoGuessr/Mixt-GeoGuessr.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "Mixt-GeoGuessr/Mixt-GeoGuessr.tex",
+    "asy_index": 2,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ORPR/ORPR.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProbabilisticMethod/ProbabilisticMethod.tex",
+    "asy_index": 1,
+    "caption": "The case $n=4$. There are $n^2-n+1=13$ edges, and the matching is highlighted in green.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProbabilisticMethod/ProbabilisticMethod.tex",
+    "asy_index": 2,
+    "caption": "Assigning scores. The elements of $S$ are the large red vertices.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProbabilisticMethod/ProbabilisticMethod.tex",
+    "asy_index": 3,
+    "caption": "Ignoring things.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProbabilisticMethod/ProbabilisticMethod.tex",
+    "asy_index": 4,
+    "caption": "Here $$ is the eyelid of $v$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProbabilisticMethod/ProbabilisticMethod.tex",
+    "asy_index": 5,
+    "caption": "The greedy algorithm cannot do better than $ n$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "ProblemWrite/ProblemWrite.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 1,
+    "caption": "First row: $b^3+c^3 bc(b+c)$, $a^2+b^2+c^2 ab+bc+ca$ and 3rd degree Schur. Second row: $(a-b)^2 0$, our first example, and 5th degree Schur.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 2,
+    "caption": "K4.1 expanded",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 3,
+    "caption": "Third-degree Schur",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 4,
+    "caption": "Trying to get symmetry",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 5,
+    "caption": "The corresponding triangle",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 6,
+    "caption": "Forcing symmetry unto our inequality.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "SOS-Dumbass/SOS-Dumbass.tex",
+    "asy_index": 7,
+    "caption": "Iran, expanded",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "TaiwanTST/TaiwanTST.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "USAMO2014/USAMO2014.tex",
+    "asy_index": 1,
+    "caption": "Problem 5 diagram.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "USAMO2014/USAMO2014.tex",
+    "asy_index": 2,
+    "caption": "Threats.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "USAMO2014/USAMO2014.tex",
+    "asy_index": 3,
+    "caption": "Hexagonal grid coloring.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 1,
+    "caption": "平面上取了複數 $z = 3+4i$ 且 $-1-2i$; $ z = 3-4i$ 為 $z$ 的共軛.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 2,
+    "caption": "$z i(z-w) + w$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 3,
+    "caption": "${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 4,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 5,
+    "caption": "$Z$ 對 ${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 6,
+    "caption": "$Z$ 對 ${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 7,
+    "caption": "兩條切線交叉。$p = {2",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 8,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 9,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/cmplx.tex",
+    "asy_index": 10,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 1,
+    "caption": "Points $z = 3+4i$ and $-1-2i$; $ z = 3-4i$ is the conjugate.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 2,
+    "caption": "$z i(z-w) + w$.",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 3,
+    "caption": "${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 4,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 5,
+    "caption": "The reflection of $Z$ across ${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 6,
+    "caption": "The reflection of $Z$ across ${AB",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 7,
+    "caption": "Two tangents. $p = {2",
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 8,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 9,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "cmplx/en-cmplx.tex",
+    "asy_index": 10,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "english/english.tex",
+    "asy_index": 1,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "english/english.tex",
+    "asy_index": 2,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  },
+  {
+    "source_tex": "english/english.tex",
+    "asy_index": 3,
+    "caption": null,
+    "status": "no_tsqx_comment"
+  }
+]

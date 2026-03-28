@@ -1,0 +1,4 @@
+interface:
+  display_name: "TSQX Generator"
+  short_description: "Generate TSQX from geometry prompts"
+  default_prompt: "Use $tsqx-gen to turn this geometry problem or figure description into clean TSQX and verify it locally when possible."

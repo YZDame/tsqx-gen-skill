@@ -1,0 +1,15 @@
+A = dir 130
+B = dir 210
+C = dir 330
+I 315 = incenter A B C
+D = foot I B C
+E 70 = foot I C A
+F = foot I A B
+M = midpoint B--C
+N = midpoint C--A
+K = extension M N E F
+A--B--C--cycle / 0.1 lightcyan / blue
+incircle A B C / blue
+M--K / red
+F--K / red
+B--K--C / red

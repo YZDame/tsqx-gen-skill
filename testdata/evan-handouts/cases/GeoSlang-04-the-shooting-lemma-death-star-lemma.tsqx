@@ -1,0 +1,12 @@
+A = dir 170
+B = dir 10
+M = dir 270
+T = dir 55
+K 315 = extension M T A B
+unitcircle / 0.1 cyan / blue
+V := K+dir(90)
+P = extension origin T K V
+CP P K / 0.1 yellow / deepgreen
+A--B / blue
+M--T / red
+B--M--A / grey
