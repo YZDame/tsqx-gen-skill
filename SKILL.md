@@ -52,6 +52,14 @@ Read [references/idioms.md](references/idioms.md) when choosing constructions an
 Read [references/few-shot.md](references/few-shot.md) when the task resembles a known geometry pattern.
 Read [references/evan-style.md](references/evan-style.md) for concise TSQX style anchored by preserved handout examples from Evan Chen.
 
+## Sources of Truth and Verification Boundaries
+
+- Use [upstream TSQX](https://github.com/vEnhance/tsqx) to resolve compiler behavior and actual syntax.
+- Use [TSQX Chinese handbook](https://github.com/YZDame/tsqx-book) for examples and [syntax reference](https://github.com/YZDame/tsqx-book/blob/main/docs/syntax-reference.md) when available.
+- Use [tsqx-compiler](https://github.com/YZDame/tsqx-compiler) for the VS Code compile/preview workflow.
+- **Successful compilation validates the toolchain, not the geometry.** Always check stated incidence, perpendicularity, collinearity, cyclicity, and choice of intersection branch against the question.
+- Report whether checks were **compiled**, **visually inspected**, or **verified against explicit constraints**, rather than calling all three "verified".
+
 ## Core Workflow
 
 1. Parse the problem into atomic geometry facts.
@@ -114,7 +122,9 @@ In the author's current workspace, useful references include:
 - a `tsqx-compiler` repository containing compile/preview workflow and diagnostics behavior
 
 Treat those repositories as optional context, not required dependencies of this skill.
-Use `scripts/verify_tsqx_pipeline.py` for quick local validation when you have written a `.tsqx` file to disk.
+Use `scripts/verify_tsqx_pipeline.py` for quick local validation when you have written a `.tsqx` file to disk. Its successful result now requires generated, nonempty ASY and a newly produced valid-header PDF (unless `--no-pdf` is chosen). The script preserves earlier output artifacts when a stage fails.
+
+After compiling, inspect the rendered diagram and re-check its actual geometric constraints. A visual match is not a mathematical proof: if the input is ambiguous, keep its assumptions visible.
 
 If compilation fails:
 

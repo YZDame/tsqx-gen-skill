@@ -2,6 +2,8 @@
 
 Use this file to stay close to the style and capability boundaries seen in `../tsqx/examples` and real local usage under `../tsqx/personal`.
 
+Before reusing a pattern, compare syntax against the [TSQX reference](https://github.com/YZDame/tsqx-book/blob/main/docs/syntax-reference.md) and installed upstream compiler version. These idioms are examples, **not** a replacement for the actual parser. When multiple intersections or tangent branches are possible, check which geometrical solution the output represents.
+
 ## Construction Priorities
 
 Prefer these layers in order:
