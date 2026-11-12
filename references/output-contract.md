@@ -38,6 +38,8 @@ State one of:
 - `Compiled successfully via tsqx -> asy.`
 - `Compilation failed:` followed by one short reason.
 
+Distinguish three independent results: **toolchain compilation**, **render inspection**, and **constraint verification**. Do not claim geometry was checked solely because a PDF exists.
+
 Also mention whether the code preserves:
 
 - incidence
